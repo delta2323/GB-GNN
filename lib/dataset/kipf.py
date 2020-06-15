@@ -9,6 +9,8 @@ import scipy.sparse as sp
 
 # Code borrowed from
 # https://github.com/tkipf/gcn/blob/master/gcn/utils.py
+# The MIT License
+# Copyright (c) 2016 Thomas Kipf
 
 
 DATASET_PATH = os.path.join(
