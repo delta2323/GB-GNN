@@ -1,5 +1,5 @@
 This is the code for the paper titled
-Optimization and Generalization Analysis of Transduction through Gradient Boosting and Application to Multi-scale Graph Neural Networks.
+*Optimization and Generalization Analysis of Transduction through Gradient Boosting and Application to Multi-scale Graph Neural Networks* ([arXiv](https://arxiv.org/abs/2006.08550)).
 
 # Dependency
 
